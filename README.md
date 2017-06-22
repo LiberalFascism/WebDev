@@ -1,2 +1,2 @@
 # WebDev
-This reso contains the files for my resume site
+This repo contains the files for my resume site
