@@ -1,0 +1,52 @@
+
+body{
+    background-color: rgb(138, 135, 159);
+    height:
+}
+h1{
+    text-align: center;
+    color: seashell;
+    margin: 2px;
+    padding: 3px;
+    background-color: rgb(128, 21, 21);
+    font-family: Courier New, Courier, monospace
+}
+
+#form-1{
+    
+margin: auto;
+    padding: 3px;
+    width: 500px
+    
+    
+    
+}
+
+#lastname{
+   
+    position: relative;
+    bottom: 56px;
+    left: 250px;
+   text-underline-position: 2px;
+   color: black;
+    font-weight: bold;
+    font-family: Courier New, Courier, monospace;
+}
+
+#eid{
+    position: relative;
+    bottom: 56px;
+    left: 250px;
+   text-underline-position: 2px;
+   color: black;
+    font-weight: bold;
+    font-family: Courier New, Courier, monospace;
+
+}
+
+#text{
+    color: black;
+    font-weight: bold;
+    font-family: Courier New, Courier, monospace;
+    
+}
